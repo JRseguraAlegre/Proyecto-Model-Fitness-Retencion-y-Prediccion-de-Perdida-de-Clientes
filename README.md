@@ -1,2 +1,2 @@
-# -Proyecto-Model-Fitness-Retenci-n-y-Predicci-n-de-P-rdida-de-Clientes-
+# -Proyecto-Model-Fitness-Retencion-y-Prediccion-de-Perdida-de-Clientes
 Model Fitness busca reducir el churn mediante una estrategia basada en análisis de datos. El reto principal es identificar cuándo un cliente realmente abandona el gimnasio, ya que algunas salidas son explícitas, pero otras ocurren de forma gradual al dejar de asistir sin cancelar. Esto exige analizar patrones de uso para detectar señales y actuar!
